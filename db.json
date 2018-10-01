@@ -1,0 +1,12 @@
+{
+  "user": [
+    { "id": 1, "name": "Nguyễn Văn Nam", "username": "user1", "password": "123456" },
+    { "id": 2, "name": "Nguyễn Đức Nam", "username": "user2", "password": "123456" },
+    { "id": 3, "name": "Nguyễn Hoài Nam", "username": "user3", "password": "123456" }
+  ],
+  "catalog": [
+    { "id": 1, "name": "Phụ kiện" },
+    { "id": 2, "name": "Tóc hóa trang" },
+    { "id": 3, "name": "Giầy" }
+  ]
+}
